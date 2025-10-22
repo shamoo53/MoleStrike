@@ -46,7 +46,7 @@ export function AboutSection() {
 
             <Button
               variant="outline"
-              size="lg"
+              size="sm"
               className="mt-8 bg-transparent border-2 border-[#5FE6F4] text-[#5FE6F4] hover:bg-[#5FE6F4]/10 hover:text-white transition-colors"
             >
               Learn More About StarkNet
