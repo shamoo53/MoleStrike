@@ -1,0 +1,17 @@
+"use client";
+
+import React, { useState, useEffect, useCallback } from "react";
+import { Timer, Trophy } from "lucide-react";
+import { motion } from "framer-motion";
+
+// Keep your metadata export
+export const metadata = {
+  title: "Your Page Title",
+  description: "Your page description",
+  // other metadata properties
+};
+
+// Rest of your component
+export default function YourComponent() {
+  // ...
+}

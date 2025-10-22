@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Helmet -->
+  <ellipse cx="250" cy="180" rx="90" ry="100" fill="#e0e0e0" stroke="#bdbdbd" stroke-width="4"/>
+  
+  <!-- Helmet Glass -->
+  <ellipse cx="250" cy="170" rx="70" ry="75" fill="#37474f" opacity="0.7" stroke="#263238" stroke-width="2"/>
+  <ellipse cx="230" cy="150" rx="15" ry="10" fill="#ffffff" opacity="0.3" transform="rotate(-20 230 150)"/>
+  
+  <!-- Suit Body -->
+  <path d="M170,230 C170,230 160,350 180,380 C200,410 230,420 250,420 C270,420 300,410 320,380 C340,350 330,230 330,230 L170,230 Z" fill="#f5f5f5" stroke="#bdbdbd" stroke-width="4"/>
+  
+  <!-- Backpack -->
+  <rect x="200" y="240" width="100" height="120" rx="10" ry="10" fill="#e0e0e0" stroke="#bdbdbd" stroke-width="3"/>
+  <rect x="220" y="260" width="60" height="20" rx="5" ry="5" fill="#90a4ae" stroke="#62727b" stroke-width="2"/>
+  <rect x="220" y="290" width="60" height="20" rx="5" ry="5" fill="#90a4ae" stroke="#62727b" stroke-width="2"/>
+  
+  <!-- Arms -->
+  <path d="M170,230 C150,250 130,300 140,340 C150,380 180,390 180,390" fill="none" stroke="#f5f5f5" stroke-width="30" stroke-linecap="round"/>
+  <path d="M330,230 C350,250 370,300 360,340 C350,380 320,390 320,390" fill="none" stroke="#f5f5f5" stroke-width="30" stroke-linecap="round"/>
+  
+  <!-- Hands -->
+  <circle cx="180" cy="390" r="20" fill="#f5f5f5" stroke="#bdbdbd" stroke-width="3"/>
+  <circle cx="320" cy="390" r="20" fill="#f5f5f5" stroke="#bdbdbd" stroke-width="3"/>
+  
+  <!-- Suit Details -->
+  <rect x="220" y="230" width="60" height="30" rx="5" ry="5" fill="#90a4ae" stroke="#62727b" stroke-width="2"/>
+  
+  <!-- Tether/Rope floating -->
+  <path d="M250,420 C250,420 260,440 270,460 C280,480 290,500 290,500" fill="none" stroke="#e0e0e0" stroke-width="5" stroke-linecap="round" stroke-dasharray="10,5"/>
+</svg>
